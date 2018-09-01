@@ -2,7 +2,7 @@
 
 Exploring the relationship between Coca Cola's social media presence and stock price from 2008-2017.
 
-*By: Srujay Korlakunta, Narpal Sandhu, Kevin Pham, and Josh Yeung*
+*By: Josh Yeung, Srujay Korlakunta, Narpal Sandhu, and Kevin Pham*
 
 ## Table of Contents:
 
